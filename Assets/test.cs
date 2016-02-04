@@ -25,7 +25,7 @@ public class test : MonoBehaviour {
 		Debug.Log("ctest" + Ctest1.Test1(10));
 		Ctest1.Num1 = 1000;
 		Debug.Log("ctest2" + Ctest1.Num1);
-		Debug.Log("gittest");
+		Debug.Log("gittest確認しましたー");
 	}
 
 	static int MAX(params int[] a) {
